@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "homepage": "https://github.com/bryanbraun/twitter-listbot",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/4xx/twitter-listbot.git"
@@ -19,7 +23,8 @@
   "optionalDependencies": {},
   "engines": {
     "node": "4.6.1",
-    "npm": "3.10.9"
+    "npm": "3.10.9",
+    "nodemon": "^1.10.2"
   },
   "author": {
     "name": "Bryan Braun",
