@@ -6,20 +6,20 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bryanbraun/twitter-listbot.git"
+    "url": "git://github.com/4xx/twitter-listbot.git"
   },
   "bugs": {
-    "url": "https://github.com/bryanbraun/twitter-listbot/issues"
+    "url": "https://github.com/4xx/twitter-listbot/issues"
   },
   "dependencies": {
-    "tuiter": "~0.2.12",
-    "express": "~4.9.0"
+    "tuiter": "~0.2.13",
+    "express": "~4.14.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
+    "node": "4.6.1",
+    "npm": "2.15.9"
   },
   "author": {
     "name": "Bryan Braun",
