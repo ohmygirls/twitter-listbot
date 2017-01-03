@@ -10,8 +10,8 @@ app.listen(process.env.PORT || 5000);
 //
 // Config.keys uses environment variables so sensitive info is not in the repo.
 var config = {
-    me: 'StoriesInData', // The authorized account with a list to retweet.
-    myList: 'data-driven-storytellers', // The list we want to retweet.
+    me: 'StoriesInData', // OhMyGirlssss.
+    myList: 'data-driven-storytellers', // bsngxxx.
     regexFilter: '', // Accept only tweets matching this regex pattern.
     regexReject: '(RT|@)', // AND reject any tweets matching this regex pattern.
 
@@ -20,10 +20,10 @@ var config = {
         // consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
         // access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
         // access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-        consumer_key: 'XXXXXXXXXXXXXXXXXXXX',
-        consumer_secret: 'XXXXXXXXXXXXXXXXXXXX',
-        access_token_key: 'XXXXXX-XXXXXXXXXXX',
-        access_token_secret: 'XXXXXXXXXXXXXXXXXXXXX'
+        consumer_key: '	eLTTVIAoPLmtK7NXB8LQwZlSf',
+        consumer_secret: '	X3Pp5Hz8DpFZbNsrqzw0rzEeRoZAP5xm36NeRsE01pzVlkOAq6',
+        access_token_key: '786916978111971328-3zJmbV46JhdFvVFgqQBpyGnAQvWJNd7',
+        access_token_secret: 'TlF0CyVhEKlfpimtIoOdW9n1KzoKXYtc9Bug84NTHrXaa'
     },
 };
 
